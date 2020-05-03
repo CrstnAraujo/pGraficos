@@ -2,3 +2,8 @@
 
 - Cristian Araujo
 - Conejito Conejuno Conejin
+
+## Repositorio oficial
+
+El repositorio estara en el siguiente enlace:
+<https://github.com/CrstnAraujo:repo.git>
