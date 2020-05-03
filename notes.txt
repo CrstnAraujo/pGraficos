@@ -3,3 +3,6 @@ Archivo de notas
 ****
 Primera nota
 ****
+****
+Segunda nota
+****
