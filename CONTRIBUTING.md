@@ -7,3 +7,6 @@
 
 El repositorio estara en el siguiente enlace:
 <https://github.com/CrstnAraujo:repo.git>
+
+Repositorio alternativo
+<https://gitlab.com/CrstnAraujo:repo.git>
