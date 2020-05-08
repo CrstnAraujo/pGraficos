@@ -3,9 +3,15 @@ Archivo de notas
 ****
 Primera nota
 ****
+
 ****
 Segunda nota
 ****
+
 ****
 Tercera nota
+****
+
+****
+Cuarta nota
 ****
