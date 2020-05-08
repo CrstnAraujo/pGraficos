@@ -17,5 +17,5 @@ Cuarta nota
 ****
 
 ****
-Quita nota
+Quita nota - !Nota importante
 ****
